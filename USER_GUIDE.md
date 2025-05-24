@@ -38,4 +38,4 @@ Once uploaded, the system:
 
 > **Note**: Auralytics is a closed-source project. This repo is only for documentation purposes.
 
-Visit the live docs: [Coming Soon]()
+Visit the live docs: [Auralytics Documentation](https://whyvineet.github.io/auralytics-docs/)

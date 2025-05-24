@@ -7,6 +7,7 @@ Auralytics ("we", "our", or "us") is committed to protecting your privacy. This 
 ## 1. Information We Collect
 
 We collect the following data from users who log in via Google:
+
 * Full name
 * Email address
 * Profile picture (if available through your Google account)
@@ -17,6 +18,7 @@ We collect the following data from users who log in via Google:
 ## 2. How We Use Your Information
 
 We use this data to:
+
 * Create and maintain your account
 * Personalize your experience
 * Provide feedback on your communication skills
@@ -27,6 +29,7 @@ We use this data to:
 ## 3. Data Storage & Security
 
 All your data is stored securely using Supabase, and we implement industry-standard security protocols to prevent unauthorized access, including:
+
 * Encryption of data in transit and at rest
 * Regular security audits
 * Access controls for our team members
@@ -35,6 +38,7 @@ All your data is stored securely using Supabase, and we implement industry-stand
 ## 4. Your Rights
 
 You have the right to:
+
 * Access your personal information
 * Request correction of your personal information
 * Request deletion of your account and associated data
@@ -62,4 +66,4 @@ Email: [info.auralytics@gmail.com](mailto:info.auralytics@gmail.com)
 
 > **Note**: Auralytics is a closed-source project. This repo is only for documentation purposes.
 
-Visit the live docs: [Coming Soon]()
+Visit the live docs: [Auralytics Documentation](https://whyvineet.github.io/auralytics-docs/)
