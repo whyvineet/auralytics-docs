@@ -4,10 +4,10 @@ Welcome to the official documentation repository for **Auralytics** — an AI-po
 
 This repository contains:
 
-- Privacy policy
-- Terms and conditions
-- Platform usage guide
+- [Privacy policy](./PRIVACY_POLICY.md)
+- [Terms and conditions](./TERMS_AND_CONDITIONS.md)
+- [Platform usage guide](./USER_GUIDE.md)
 
 > **Note**: Auralytics is a closed-source project. This repo is only for documentation purposes.
 
-Visit the live docs: [Coming Soon]()
+Visit the live docs: [Coming Soon](https://whyvineet.github.io/auralytics-docs/)
